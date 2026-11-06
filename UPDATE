@@ -1,0 +1,11 @@
+
+{
+  "status": "active",
+  "version": "1.0.0",
+  "latestVersion": "1.0.0",
+  "releaseDate": "2026-11-06T16:49:00-03:00",
+  "validHours": 1,
+  "updateAvailable": false,
+  "message": "Uma nova atualização está disponível! Atualize seu LNS LITE para continuar utilizando.",
+  "updateUrl": "https://SEU-LINK-DE-ATUALIZACAO"
+}
